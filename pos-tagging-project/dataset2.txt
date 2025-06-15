@@ -1,0 +1,103 @@
+1) Ahmet çayırda koyun otlatıyordu.
+2) Lütfen ayakkabılarınızı dolaba koyun.
+3) Yeni telefonumun kamerası oldukça kaliteli çıktı.
+4) Sabah kahvaltısında peynir ve zeytin yedim.
+5) Dün akşam dolu yağdı ve sokaklar sel oldu.
+6) Öğrenciler sınıfta sessizce derse odaklandı.
+7) Balkonun camları sabah güneşiyle parıldıyordu.
+8) Genelde öğrenciler projelerini teslim etmek için son günü bekler.
+9) Basit ve karmaşık yaklaşımlar arasında doğru noktayı bulmak bir beceridir.
+10) Karmaşık sorunlar genellikle adım adım ilerleyen, yinelemeli çözümler gerektirir.
+11) 20 Haziran tarihinde derslerim bitecek.
+12) Öğretmen, sınav tarihini hafta sonuna erteledi.
+13) Yeni aldığı kırmızı araba çok dikkat çekiyor.
+14) Soğuk kış akşamlarında sıcak çay içmek keyiflidir.
+15) Eski ev tamir edilmeyi bekliyor.
+16) Biz hafta sonu pikniğe gidiyoruz.
+17) Her yapay zeka sistemi mutlaka eğitim sürecine ihtiyaç duymaz.
+18) Zor ve karmaşık yaklaşımlar arasında doğru noktayı bulmak bir yetenektir.
+19) Her duruma uygun tek bir çözüm yoktur.
+20) Teknolojinin etkili kullanımı, insan gözetimi ve sınırlamalarının anlaşılmasını gerektirir. 
+21) İnsan beyninin basitliğe olan eğilimi, hem bir güçlü yön hem de bir zayıflıktır.
+22) Gökyüzüne doğru 8.849 metre yükselen Everest, dünyanın en yüksek dağıdır.
+23) Kitap okurken zamanın nasıl geçtiğini fark etmedim.
+24) Kaliteli bir uyku, zihinsel performansı artırır.
+25) Deniz kenarında yürüyüş yapmak ruhumu dinlendiriyor.
+26) Gelişen teknolojiyle birlikte alışkanlıklarımız da değişiyor.
+27) Zor zamanlar, insanın karakterini şekillendirir.
+28) Her gün küçük bir adım atmak, büyük farklar yaratabilir.
+29) Sessiz bir ortamda çalışmak dikkatimi toplamama yardımcı oluyor.
+30) Sanal gerçeklik, eğitim ve eğlence sektörlerinde yeni bir çağ başlattı.
+31) Siber güvenlik, dijital çağın en önemli konularından biri haline geldi.
+32) Kodlama bilgisi, artık temel bir dijital okuryazarlık becerisi sayılıyor.
+33) Otomasyon sistemleri, üretim süreçlerini daha hızlı ve hatasız yapıyor.
+34) Teknoloji sayesinde uzaktan çalışma kültürü yaygınlaştı.
+35) Disiplinli çalışma, akademik başarının anahtarıdır.
+36) Öğrencilerin farklı öğrenme stilleri dikkate alınmalıdır.
+37) Plastik atıklar, deniz yaşamını tehdit ediyor.
+38) Küresel ısınma, buzulların hızla erimesine neden oluyor.
+39) Her fidan, geleceğe atılmış bir adımdır.
+40) Şehir hayatı, doğayla olan bağımızı zayıflatıyor.
+41) Müzik, kelimelerin anlatamadığını notalarla ifade eder.
+42) Her fırça darbesinde ressamın ruhundan bir parça gizlidir.
+43) Bir heykel, zamanla donmuş bir duygunun sessiz anlatımıdır.
+44) Bugün dışarı çıkmak yerine evde kalmayı tercih ettim.
+45) Dışarısı çok soğuktu ama yine de yürüyüşe çıktım.
+46) Bu projede JavaScript veya TypeScript kullanabilirsin.
+47) Dersi çok iyi dinledim fakat sınavda yine de zorlandım.
+48) Nasıl oldu da bu kadar güzel bir gün böyle berbat bitti?
+49) Katılımcıların %72’si uzaktan eğitimin verimli olduğunu ifade etti.
+50) Bir kahve içmeden güne başlarsam verimliliğim %10'a düşüyor.
+51) Hedefe ulaşmanın %50’si plan, %50’si istikrar gerektirir.
+52) Bazen tek bir kelime, sayfalar dolusu açıklamadan güçlüdür.
+53) Yabancı bir şehirde tanıdık bir şarkı duymak içimi ısıttı.
+54) Kahvenin içimi yumuşacık, her yudumu huzur dolu.
+55) İnsan vücudunda yaklaşık 206 kemik bulunur.
+56) Dünya’nın atmosferi %78 azot, %21 oksijen ve %1 diğer gazlardan oluşur.
+57) Bakteriler, mikroskop altında görülebilen tek hücreli organizmalardır.
+58) Her sabah erken kalkarım.
+59) Tüm görevler zamanında tamamlandı.
+60) Her yıl yaz tatilinde denize gideriz.
+61) Bu telefonun kamerası gerçekten çok iyi.
+62) Eyvah, anahtarlarımı evde unuttum!
+63) Hey, biraz sessiz olur musun? Konsantre olmam gerekiyor.
+64) Onlar da aramıza katıldı.
+65) O kadar hızlı koştu ki, kimse onu yakalayamadı.
+66) Oyun alanında üç çocuk oynuyor.
+67) Fabrika yüz kişi çalıştırıyor.
+68) İstanbul, Türkiye'nin en kalabalık şehridir.
+69) Paris her yıl milyonlarca turisti ağırlıyor.
+70) Apple yeni bir iPhone modeli tanıttı.
+71) O, projeyi kendi başına tamamladı.
+72) İnsan beyninde yaklaşık 86 milyar nöron bulunur ve bu nöronlar arasındaki bağlantı sayısı 100 trilyonu aşarak bilişsel işlevlerin karmaşıklığını sağlar.
+73) Ortalama bir yetişkinin kalp atım hızı istirahat halinde dakikada 60 ila 100 arasında değişir ve bu oran, fiziksel aktivite veya stres durumlarında belirgin şekilde artabilir.
+74) Bir insanın günlük enerji ihtiyacı yaşa, cinsiyete ve aktivite düzeyine bağlı olarak değişmekle birlikte, ortalama bir yetişkin erkek için bu değer yaklaşık 2.500 ila 3.000 kilokalori arasında değişir.
+75) O, her zaman nazik ve sabırlı bir insandır.
+76) Yaptığın sunum hem bilgilendirici hem de etkileyiciydi.
+77) Projenin yenilikçi yaklaşımı, jüri üyeleri tarafından takdir edildi.
+78) Tatil planımız hava durumuna göre şekillenecek.
+79) Spor yapmak, sağlıklı yaşam için gereklidir.
+80) Sana yardım etmek istiyorum ama zamanım yok.
+81) Bu konuyu seninle birlikte çözebiliriz.
+82) Sınavdan önce konuları tekrar etmelisin.
+83) Bugünkü derse sadece üç kişi geldi.
+84) Sınavda yetmiş beş puan aldım.
+85) Bursa Teknik Üniversitesi, mühendislik alanında kaliteli eğitim sunar.
+86) Mert Yazılım, yazılım geliştirme alanında uzun süredir faaliyet gösteriyor.
+87) Çanakkale Savaşı, Türk tarihinin dönüm noktalarından biridir.
+88) Oraya bir şey bırakmışlardı ama ne olduğunu anlamadım.
+89) Etkinlik bu sabah saat dokuzda başlayacaktı, fakat hava kötüydü.  
+90) Eğer zamanında çıksaydık, çoktan varmış olacaktık.
+91) Yağmurun şiddetli yağması nedeniyle yollar suyla doldu ve trafik tamamen durdu, bu yüzden birçok kişi işe geç kaldı.
+92) Daha iyi bir gelecek için eğitim almak şarttır; çünkü ancak bilgi sahibi bireyler, toplumun gelişmesine katkıda bulunabilir.
+93) 20 Temmuz 1969'da Neil Armstrong’un Ay’a ilk ayak basması, insanlık tarihinin en büyük keşiflerinden biri olarak kabul edilir.
+94) 14 Temmuz 1789 tarihinde Paris'te Bastille Hapishanesi'nin halk tarafından basılması, Fransız Devrimi'nin simgesi haline gelmiş ve krallık rejiminin sonunu hızlandırmıştır.
+95) Spor salonunda düzenli olarak egzersiz yapan kişiler, sağlıklı kalmanın yanı sıra zihinsel olarak da daha dinç hissederler.
+96) Sabah kahvesini içerken gazetesini okuyan adam, gündemdeki önemli gelişmeleri takip etmeyi ihmal etmedi.  
+97) Bilinmeyen bir nedenle sistem çöktü.
+98) Teknoloji hızla ilerlerken, insan ilişkileri daha da değerli hale geliyor.
+99) Yeni bir dil öğrenmek, farklı bir kültürün kapılarını aralamaktır.
+100) Kodun bu satırında, asenkron işlem tamamlanmadan sonraki adıma geçiliyor olabilir.
+
+
+
